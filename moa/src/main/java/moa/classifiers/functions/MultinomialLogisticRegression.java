@@ -20,7 +20,6 @@ public class MultinomialLogisticRegression extends AbstractClassifier  implement
 
     private boolean shouldReset = true;
 
-
     @Override
     public String getPurposeString() {
         return "Logistic regression: A simple logistic regression based classifier.";
